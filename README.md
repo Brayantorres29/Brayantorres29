@@ -13,7 +13,6 @@
 ```typescript
 const brayanTorres = {
   role:       "QA Analyst & Functional Analyst",
-  company:    "Infométrika",
   location:   "Bogotá, Colombia 🇨🇴",
   experience: "3+ años en QA",
 
