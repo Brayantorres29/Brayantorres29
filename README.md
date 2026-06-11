@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4f46e5&height=180&section=header&text=Brayan%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20Test%20Automation&descAlignY=58&descSize=20&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4f46e5&height=180&section=header&text=Brayan%20Torres&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=QA%20Analyst%20%7C%20Functional%20Analyst&descAlignY=58&descSize=20&descColor=a5b4fc" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Playwright+%2B+TypeScript+%2B+Page+Object+Model;E2E+%7C+Functional+%7C+Load+Testing;CI%2FCD+con+GitHub+Actions;QA+Analyst+%7C+Bogot%C3%A1%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Playwright+%2B+TypeScript+%2B+Page+Object+Model;E2E+%7C+Functional+%7C+Load+Testing;QA+Analyst+%7C+Functional+Analyst;Bogot%C3%A1%2C+Colombia+🇨🇴)](https://git.io/typing-svg)
 
 </div>
 
