@@ -54,6 +54,16 @@ const brayanTorres = {
 
 ---
 
+### 🎬 [youtube-qa-automation](https://github.com/Brayantorres29/youtube-qa-automation)
+> Automatización E2E del portal web de YouTube
+
+- ✅ **15 casos de prueba** con Playwright + TypeScript
+- ✅ **100% pass rate** · Screenshots de evidencia por caso
+- ✅ **Page Object Model** — 3 clases POM separadas
+- ✅ Cubre búsqueda, filtros, reproductor y navegación
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
